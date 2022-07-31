@@ -1,4 +1,11 @@
 {
+    "extensions": {
+        "@aws.profile": "profile:default",
+        "@editor.acceptSuggestionOnEnter": "on",
+        "@editor.snippetSuggestions": "top",
+        "@editor.suggest.preview": true,
+        "@editor.suggest.showMethods": true
+    },
     "language": {
         "tern_defs": {
             "json()": {
